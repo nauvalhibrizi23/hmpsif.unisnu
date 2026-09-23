@@ -1,4 +1,4 @@
-# HMTI — Himpunan Mahasiswa Teknik Informatika
+# HMPSIF — Himpunan Mahasiswa Prodi Teknik Informatika
 
 Website organisasi mahasiswa full-stack berbasis PHP + MySQL + Bootstrap 5.
 
@@ -16,9 +16,8 @@ Website organisasi mahasiswa full-stack berbasis PHP + MySQL + Bootstrap 5.
 2. Jalankan Apache dan MySQL.
 3. Buka phpMyAdmin.
 4. Import `database.sql`.
-5. Buka `http://localhost/hmti-website/`.
-6. Admin: `http://localhost/hmti-website/admin/login.php`
-7. Demo login: username `admin`, password `admin123`.
+5. Buka `http://localhost/hmpsif-website/`.
+6. Admin: `http://localhost/hmpsif-website/admin/login.php`
 
 ## Catatan keamanan
 Ganti password admin demo sebelum deployment. Untuk produksi, tambahkan CSRF token, rate limiting, validasi MIME upload, dan HTTPS.
